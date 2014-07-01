@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-include TestIsh in your test setup or rspec config
+require 'test_ish' gem in your tests in ruby code or your :test group in your Gemfile
 
 ## Contributing
 
